@@ -1,0 +1,2 @@
+# Smart-Object-Detection-for-the-Visually-Impaired-using-YOLOv8-and-Pyttsx3
+This system helps visually impaired individuals by detecting objects in real time and providing audio feedback. Using YOLOv3 and the COCO dataset, it identifies multiple objects through live video processing with OpenCV.  Once detected, objects are converted into speech using gTTS, allowing users to "hear" their surroundings.
